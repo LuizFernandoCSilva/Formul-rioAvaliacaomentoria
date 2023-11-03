@@ -118,6 +118,7 @@ fieldset{
   border-radius: 8px;
   border: 1px solid #E6E6F0;
   background:#FAFAFC;
+  padding: 5px;
 }
 legend{
   color: #253B51;
@@ -143,8 +144,6 @@ legend{
 .input-wrapper textarea{
   width: 608px;
   height: 167px;
-  padding: 10px;
-
 }
 .checkbox-wrapper{
   position: relative;
